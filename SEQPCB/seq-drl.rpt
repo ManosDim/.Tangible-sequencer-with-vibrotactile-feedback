@@ -1,0 +1,27 @@
+Drill report for seq.kicad_pcb
+Created on 09/12/2022 14:18:31
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'seq-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.700mm  0.0276"  (33 holes)
+    T2  1.000mm  0.0394"  (34 holes)
+    T3  1.219mm  0.0480"  (48 holes)
+    T4  2.690mm  0.1059"  (2 holes)
+
+    Total plated holes count 117
+
+
+Drill file 'seq-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3.048mm  0.1200"  (32 holes)
+    T2  3.200mm  0.1260"  (4 holes)
+
+    Total unplated holes count 36
